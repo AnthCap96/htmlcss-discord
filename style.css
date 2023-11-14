@@ -7,7 +7,7 @@
 /* debug section */
 
 .debug #app_header {
-    background-image: url(/img/jumbo.png);
+    background-image: url(./img/jumbo.png);
     width: 100%;
     height: 80px;
     flex-direction: row;
@@ -19,7 +19,7 @@
 }
 
 .debug #sub_main {
-    background-image: url(/img/jumbo.png);
+    background-image: url(./img/jumbo.png);
     width: 100%;
     height: 500px;
     background-size: 100rem;
@@ -116,7 +116,7 @@
 
 .container {
     display: flex;
-    background-image: url(/img/jumbo.png);
+    background-image: url(./img/jumbo.png);
     justify-content: center;
     align-items: center;
 }
@@ -223,7 +223,7 @@ a {
 }
 
 #part_1 .col_1 {
-    background-image: url(/img/item1.svg);
+    background-image: url(./img/item1.svg);
     background-size: 33rem;
     margin-left: -9rem;
 }
@@ -260,7 +260,7 @@ a {
 }
 
 #part_2 .col_1 {
-    background-image: url(/img/item2.svg);
+    background-image: url(./img/item2.svg);
     background-size: 33rem;
     margin-left: 9rem;
 }
@@ -279,7 +279,7 @@ a {
 }
 
 #part_3 .col_1 {
-    background-image: url(/img/item3.svg);
+    background-image: url(./img/item3.svg);
     background-size: 33rem;
     margin-left: -9rem;
 }
@@ -319,14 +319,14 @@ a {
 }
 
 .last_img {
-    background-image: url(/img/item4-big.svg);
+    background-image: url(./img/item4-big.svg);
     background-size: 55rem;
     padding-bottom: 30rem;
     margin-bottom: 10rem;
 }
 
 .star {
-    background-image: url(/img/stars.svg);
+    background-image: url(./img/stars.svg);
     background-size: 35rem;
     align-items: center;
     text-align: center;
